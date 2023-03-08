@@ -55,3 +55,4 @@ SQNR= 10*log10(signal_sum/length(x)/aver_dist);
 
 
 end
+%%%
