@@ -1,5 +1,5 @@
 # ADM
 
-adaptive delta coding.
+adaptive delta modulation .
 
 input :a sequence of bits.
